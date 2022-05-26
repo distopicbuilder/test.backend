@@ -1,0 +1,12 @@
+C:\Users\ramon\source\repos\api.test.stefanini\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\ramon\source\repos\api.test.stefanini\Services\bin\Debug\net6.0\Services.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\ramon\source\repos\api.test.stefanini\Services\obj\Debug\net6.0\ref\Services.dll

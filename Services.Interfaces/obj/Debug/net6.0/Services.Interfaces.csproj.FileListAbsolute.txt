@@ -1,0 +1,12 @@
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\bin\Debug\net6.0\Services.Interfaces.deps.json
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\bin\Debug\net6.0\Services.Interfaces.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\bin\Debug\net6.0\Services.Interfaces.pdb
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.AssemblyInfo.cs
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\refint\Services.Interfaces.dll
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\Services.Interfaces.pdb
+C:\Users\ramon\source\repos\api.test.stefanini\Services.Interfaces\obj\Debug\net6.0\ref\Services.Interfaces.dll
